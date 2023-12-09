@@ -4,8 +4,8 @@
 - [LinkedIn](LinkedIn_link) 🌐
 - [GitHub](GitHub_link) 🔗
 
-### 🚀 Professional Summary
-Experienced Data Scientist and Analyst with a proven track record in advanced data analysis, machine learning, and strategic decision-making. Proficient in Python, SQL, and data visualization tools, dedicated to continuous learning, and fueled by a passion for driving product growth.
+## 🌟 Personal Summary
+Hey there! I'm Ghazal, a data enthusiast on a mission to turn numbers into stories. With over three years in the data realm, I've become fluent in the languages of Python and SQL, painting vivid pictures with tools like Power BI and Tableau. But it's not just about the tech – I thrive in collaborative environments, adapt to change like a chameleon, and live for the thrill of continuous learning. Let's decode the data puzzle together and fuel some serious product growth! 🚀
 
 ### 💼 Professional Experience
 
