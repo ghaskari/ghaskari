@@ -7,6 +7,7 @@
 ## 🌟 Personal Summary
 Hey there! I'm Ghazal, a data enthusiast on a mission to turn numbers into stories. With over three years in the data realm, I've become fluent in the languages of Python and SQL, painting vivid pictures with tools like Power BI and Tableau. But it's not just about the tech – I thrive in collaborative environments, adapt to change like a chameleon, and live for the thrill of continuous learning. Let's decode the data puzzle together and fuel some serious product growth! 🚀
 
+
 ### 💼 Professional Experience
 
 #### Nobitex, Pioneering Cryptocurrency Exchange in ME — Data Scientist 
