@@ -5,65 +5,78 @@
 - [GitHub](https://github.com/ghaskari) 🔗
 
 ## 🌟 Personal Summary
-Hey there! I'm Ghazal, a data enthusiast on a mission to turn numbers into stories. With over three years in the data realm, I've become fluent in the languages of Python and SQL, painting vivid pictures with tools like Power BI and Tableau. But it's not just about the tech – I thrive in collaborative environments, adapt to change like a chameleon, and live for the thrill of continuous learning. Let's decode the data puzzle together and fuel some serious product growth! 🚀
+Hey there! I'm Ghazal, a passionate data scientist with over 4 years of experience in turning raw data into actionable insights. Proficient in Python, SQL, and visualization tools, I specialize in predictive modeling, sentiment analysis, and statistical techniques to solve real-world challenges. Whether it's building interactive dashboards or fine-tuning machine learning models, I thrive on transforming complexity into clarity and driving impactful results. Let's decode the data puzzle together! 🚀
 
+## 💼 Professional Experience
 
-### 💼 Professional Experience
+### Nobitex — Data Scientist 
+*03/2023 – Present*
+- 🧠 Engineered a Persian sentiment analysis model using a Voting Classifier, achieving 82% accuracy and an F1 score of 80%.
+- 📊 Leveraged large language models (LLMs) to design and fine-tune a BERT-based text classification model, achieving an 89.3% F1 score.
+- 📈 Developed an interactive market data dashboard using Dash and Plotly, providing actionable insights across 20+ cryptocurrency exchanges.
+- 🤝 Enhanced cross-team collaboration by delivering analytical solutions for marketing, product, and strategy teams.
 
-#### Nobitex, Pioneering Cryptocurrency Exchange in ME — Data Scientist 
-- 🚀 Engineered a Persian sentiment analysis model with an accuracy of 82% and an F1 score of 80%.
-- 💻 Led the development of a Python-based cryptocurrency tool, enhancing efficiency by 24%.
+### Snappfood — Data Analyst
+*04/2022 – 03/2023*
+- 🧠 Implemented a supervised multi-objective optimization algorithm, improving restaurant performance evaluation accuracy by 36%.
+- 📊 Designed and maintained 15+ data-driven dashboards using Tableau and Power BI for operational and strategic decision-making.
+- 🚀 Enhanced delivery operations by boosting ETA accuracy by 22% through advanced predictive modeling and statistical analysis.
 
-#### Snappfood, Rocket Internet Middle East — Data Analyst
-- 🤝 Facilitated team meetings and implemented a Python-based ML scoring system for restaurant performance.
+### Baladmaps — Data Analyst
+*03/2020 – 04/2022*
+- 📈 Increased user engagement by 18% through advanced behavioral analysis and optimization of user interfaces.
+- 🔍 Conducted A/B testing for push notifications, driving a 15% increase in user interactions and retention rates.
+- 🛠️ Developed a session tracking system, uncovering 15 unique user behavior clusters, aiding UX improvements and business decisions.
 
-#### Baladmaps, Top SAAS Service for MENA Mapping — Data Analyst
-- 📈 Spearheaded an 18% boost in user engagement and conducted comprehensive data analysis.
+## 📚 Education
+- **Master of Business Administration (MBA)** – Allameh Tabataba’i University (2018 – 2020)
+- **BSc in Applied Chemistry** – Sharif University of Technology (2013 – 2018)
+- **Mechanical Engineering** – Sharif University of Technology (2013 – 2018)
 
+## 📜 Certifications
+- **Deep Learning Specialization** | DeepLearning.AI
+- **Machine Learning Specialization** | DeepLearning.AI
+- **Natural Language Processing with Sequence Models** | DeepLearning.AI
+- **Databases and SQL for Data Science with Python** | IBM
 
-### 📚 Course and Certificate
-- 🧠 Deep Learning Specialization | DeepLearning.AI
-- 🤖 Machine Learning Specialization | DeepLearning.AI
-- 📊 Natural Language Processing with Sequence Models | DeepLearning.AI
-- 📈 Databases and SQL for Data Science with Python | IBM
+## 💻 Skills
 
-### 💻 Skills
-#### Programming Languages
-- 🐍 Python (Pandas, NumPy, Scikit-learn)
-- 🗃️ SQL 
+### Programming Languages
+- 🐍 Python (Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch)
+- 🔃 SQL
 
-#### Data Visualization
-- 💡 Microsoft Power BI 
-- 📊 Tableau 
-- 📈 Metabase 
+### Data Visualization
+- 💡 Microsoft Power BI
+- 📊 Tableau
+- 📈 Metabase
 - 📉 Looker Studio
 
-#### Analytical Tools
-- 📊 Microsoft Excel 
-- 📈 IBM SPSS Statistics 
-- 📈 Google Analytics 
+### Statistical Analysis
+- 📈 Descriptive & Inferential Statistics
+- 📊 Hypothesis Testing
+- ⏲️ Time Series Analysis
 
-#### Statistical Analysis
-- 📈 Descriptive Statistics 
-- 📊 Inferential Statistics 
-- 📉 Hypothesis Testing 
-- ⏰ Time Series Analysis 
+### Machine Learning
+- 🤖 Predictive Modeling
+- 🔽 Sentiment Analysis
+- 🔍 Clustering & Classification
 
-#### Machine Learning Frameworks
-- 🧠 Tensorflow 
-- 🧠 Keras 
-- 🧠 PyTorch  
-- ⚡ Spark 
+### Analytical Tools
+- 📊 Microsoft Excel
+- 📈 Google Analytics
+- 📉 IBM SPSS Statistics
 
-#### Product Analytics 
-- 🎯 Defining KPIs 
-- ✅ A/B testing 
-- 📊 Descriptive Statistics   
+### Big Data Tools
+- ⚡ Apache Spark
 
-#### Version Control
+### Product Analytics
+- 🎯 KPI Definition
+- ✅ A/B Testing
+
+### Version Control
 - 🔄 Git (GitHub, GitLab)
 
-### 🌐 Languages
-- 🌐 English - Professional 
-- 🇩🇪 German - Elementary
-- 🇮🇷 Persian - Native
+## 🌐 Languages
+- 🌐 English – Professional
+- 🇩🇪 German – Elementary
+- 🇮🇷 Persian – Native
