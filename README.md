@@ -1,82 +1,78 @@
-# Ghazal Askari
-## 📊 Data Scientist / Data Analyst
-- **Email:** g.askari1037@gmail.com
-- [LinkedIn](https://www.linkedin.com/in/ghazal-askari/) 🌐
-- [GitHub](https://github.com/ghaskari) 🔗
+# Ghazal Askari  
+## 📊 Data Scientist / Data Analyst  
+- **Email:** g.askari1037@gmail.com  
+- [LinkedIn](https://www.linkedin.com/in/ghazal-askari/) 🌐  
+- [GitHub](https://github.com/ghaskari) 🔗  
 
-## 🌟 Personal Summary
-Hey there! I'm Ghazal, a passionate data scientist with over 4 years of experience in turning raw data into actionable insights. Proficient in Python, SQL, and visualization tools, I specialize in predictive modeling, sentiment analysis, and statistical techniques to solve real-world challenges. Whether it's building interactive dashboards or fine-tuning machine learning models, I thrive on transforming complexity into clarity and driving impactful results. Let's decode the data puzzle together! 🚀
+---
 
-## 💼 Professional Experience
+## 🌟 Personal Summary  
+I’m Ghazal, a data scientist with 4+ years of experience in **machine learning, statistical modeling, and analytics**. Skilled in Python, SQL, and modern visualization tools, I specialize in building predictive models, sentiment analysis pipelines, and interactive dashboards that turn complex data into actionable insights. From deploying scalable ETL pipelines to fine-tuning BERT models for NLP, my work consistently delivers measurable business impact and empowers teams to make smarter decisions. 🚀  
 
-### Nobitex — Data Scientist 
-*03/2023 – Present*
-- 🧠 Engineered a Persian sentiment analysis model using a Voting Classifier, achieving 82% accuracy and an F1 score of 80%.
-- 📊 Leveraged large language models (LLMs) to design and fine-tune a BERT-based text classification model, achieving an 89.3% F1 score.
-- 📈 Developed an interactive market data dashboard using Dash and Plotly, providing actionable insights across 20+ cryptocurrency exchanges.
-- 🤝 Enhanced cross-team collaboration by delivering analytical solutions for marketing, product, and strategy teams.
+---
 
-### Snappfood — Data Analyst
-*04/2022 – 03/2023*
-- 🧠 Implemented a supervised multi-objective optimization algorithm, improving restaurant performance evaluation accuracy by 36%.
-- 📊 Designed and maintained 15+ data-driven dashboards using Tableau and Power BI for operational and strategic decision-making.
-- 🚀 Enhanced delivery operations by boosting ETA accuracy by 22% through advanced predictive modeling and statistical analysis.
+## 💼 Professional Experience  
 
-### Baladmaps — Data Analyst
-*03/2020 – 04/2022*
-- 📈 Increased user engagement by 18% through advanced behavioral analysis and optimization of user interfaces.
-- 🔍 Conducted A/B testing for push notifications, driving a 15% increase in user interactions and retention rates.
-- 🛠️ Developed a session tracking system, uncovering 15 unique user behavior clusters, aiding UX improvements and business decisions.
+### Nobitex — Data Scientist  
+*03/2023 – Present*  
+*Nobitex is the largest cryptocurrency exchange in Iran with 10M+ users.*  
+- 🧠 **Persian Sentiment Analysis Models**: Built a voting classifier (RF, SVM, AdaBoost) achieving **82% accuracy** and **80% F1-score**.  
+- 📊 **LLM Fine-tuning**: Designed and fine-tuned **BERT-based classification models**, achieving **89.3% F1-score** for text categorization.  
+- ⚡ **Automated ETL Pipelines**: Developed **Prefect workflows** to collect OHLCV & order book data (Nobitex, Binance, OKX), maintaining **99% uptime** with MongoDB/PostgreSQL storage.  
+- 📈 **Market Dashboard**: Built an **interactive crypto market dashboard** (Dash + Plotly) analyzing 20+ exchanges for strategy, product, and marketing teams.  
+- 🔮 **Hybrid Time-Series Forecasting**: Combined **ARIMA + LSTM** for BTC prediction with walk-forward validation, boosting accuracy on multi-year datasets.  
+- 🎙️ **Persian Speech-to-Text Deployment**: Fine-tuned ASR models (transformers), reducing **WER by 25%** and deployed via **FastAPI REST API** for real-time transcription in customer service.  
 
-## 📚 Education
-- **Master of Business Administration (MBA)** – Allameh Tabataba’i University (2018 – 2020)
-- **BSc in Applied Chemistry** – Sharif University of Technology (2013 – 2018)
-- **Mechanical Engineering** – Sharif University of Technology (2013 – 2018)
+---
 
-## 📜 Certifications
-- **Deep Learning Specialization** | DeepLearning.AI
-- **Machine Learning Specialization** | DeepLearning.AI
-- **Natural Language Processing with Sequence Models** | DeepLearning.AI
-- **Databases and SQL for Data Science with Python** | IBM
+### Snappfood (Rocket Internet SE) — Data Analyst  
+*04/2022 – 03/2023*  
+*Iran’s largest online food delivery platform with 10M+ users.*  
+- 🧮 Developed a **Python-based ML scoring system** improving restaurant performance evaluation accuracy by **36%**.  
+- 📊 Designed and maintained **15+ Tableau & Power BI dashboards** for executives, enhancing decision-making efficiency.  
+- 🚚 Boosted **ETA accuracy by 22%** using predictive modeling and advanced statistical methods.  
+- 📌 Applied **Hierarchical Clustering** to refine customer segmentation, achieving a **30% uplift in accuracy**.  
 
-## 💻 Skills
+---
 
-### Programming Languages
-- 🐍 Python (Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch)
-- 🔃 SQL
+### Balad Maps — Data Analyst  
+*03/2020 – 04/2022*  
+*Leading mapping SAAS in the Middle East with 20M+ installs.*  
+- 📈 Increased **user engagement by 18%** via behavioral analysis and interface optimization.  
+- 🔔 Conducted **A/B testing on push notifications**, driving **15% higher retention**.  
+- 🛠️ Built a **session tracking system** handling 10K+ logs/day, revealing **15 user clusters** that improved UX design.  
+- 🚀 Reduced onboarding time by **17%** by detecting database bottlenecks and aligning UX + engineering teams.  
 
-### Data Visualization
-- 💡 Microsoft Power BI
-- 📊 Tableau
-- 📈 Metabase
-- 📉 Looker Studio
+---
 
-### Statistical Analysis
-- 📈 Descriptive & Inferential Statistics
-- 📊 Hypothesis Testing
-- ⏲️ Time Series Analysis
+## 📚 Education  
+- **MBA (Master of Business Administration)** – Allameh Tabataba’i University (2018 – 2020)  
+- **BSc in Applied Chemistry** – Sharif University of Technology (2013 – 2018)  
+- **Mechanical Engineering (partial program)** – Sharif University of Technology (2013 – 2018)  
 
-### Machine Learning
-- 🤖 Predictive Modeling
-- 🔽 Sentiment Analysis
-- 🔍 Clustering & Classification
+---
 
-### Analytical Tools
-- 📊 Microsoft Excel
-- 📈 Google Analytics
-- 📉 IBM SPSS Statistics
+## 📜 Certifications  
+- **Deep Learning Specialization** | DeepLearning.AI  
+- **Machine Learning Specialization** | DeepLearning.AI  
+- **Natural Language Processing with Sequence Models** | DeepLearning.AI  
+- **Databases and SQL for Data Science with Python** | IBM  
 
-### Big Data Tools
-- ⚡ Apache Spark
+---
 
-### Product Analytics
-- 🎯 KPI Definition
-- ✅ A/B Testing
+## 💻 Skills  
 
-### Version Control
-- 🔄 Git (GitHub, GitLab)
+**Programming**: Python (Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch), SQL  
+**Visualization**: Power BI, Tableau, Metabase, Looker Studio  
+**ML & AI**: Predictive Modeling, Sentiment Analysis, Clustering, Time-Series Forecasting  
+**Big Data & Deployment**: Spark, Docker, AWS (EC2, S3), CI/CD (GitHub Actions, Jenkins)  
+**Statistical Analysis**: Hypothesis Testing, Regression, A/B Testing, Descriptive & Inferential Stats  
+**Version Control**: Git (GitHub, GitLab)  
 
-## 🌐 Languages
-- 🌐 English – Professional
-- 🇩🇪 German – Elementary
+---
+
+## 🌐 Languages  
+- 🌐 English – Proficient  
+- 🇩🇪 German – Elementary  
 - 🇮🇷 Persian – Native
+- 
