@@ -75,4 +75,3 @@ I’m Ghazal, a data scientist with 4+ years of experience in **machine learning
 - 🌐 English – Proficient  
 - 🇩🇪 German – Elementary  
 - 🇮🇷 Persian – Native
-- 
