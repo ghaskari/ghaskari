@@ -4,7 +4,7 @@
 
 ## **Senior Applied Machine Learning Engineer | Production ML & Data Systems**
 
-* **Email:** [g.askari1037@gmail.com](mailto:g.askari1037@gmail.com)
+* **Email:** [g.askari1037@gmail.com](g.askari1037@gmail.com)
 * [LinkedIn](https://www.linkedin.com/in/ghazal-askari/)
 * [GitHub](https://github.com/ghaskari)
 
