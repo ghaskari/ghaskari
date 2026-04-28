@@ -19,6 +19,7 @@ Senior Applied Machine Learning Engineer with **4+ years of experience designing
 ### **Nobitex — Senior Applied Machine Learning Engineer**
 
 *03/2023 – Present*
+
 *Nobitex is the largest cryptocurrency exchange in Iran, serving 10M+ users.*
 
 * Built and scaled a **multi-exchange market intelligence platform**, aggregating OHLCV, order-book, and trade-volume data across local and international exchanges for **real-time liquidity monitoring and anomaly detection**
@@ -32,6 +33,7 @@ Senior Applied Machine Learning Engineer with **4+ years of experience designing
 ### **SnappFood (Rocket Internet SE) — Data Scientist, Applied ML & Product Analytics**
 
 *04/2022 – 03/2023*
+
 *Leading online food delivery platform in Iran with 10M+ users.*
 
 * Designed and deployed **machine learning models** for restaurant ranking using supervised multi-objective optimization, improving ranking accuracy by **36%**
@@ -45,6 +47,7 @@ Senior Applied Machine Learning Engineer with **4+ years of experience designing
 ### **Balad Maps — Product Data Analyst (Behavioral Analytics)**
 
 *03/2020 – 04/2022*
+
 *Leading SaaS-based mapping platform in the Middle East with 20M+ installs.*
 
 * Performed large-scale **product and behavioral analytics** using Python, contributing to an **18% increase in user engagement**
