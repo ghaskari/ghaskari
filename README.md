@@ -1,5 +1,3 @@
----
-
 # Ghazal Askari
 
 ## **Senior Applied Machine Learning Engineer | Production ML & Data Systems**
@@ -100,5 +98,3 @@ Senior Applied Machine Learning Engineer with **4+ years of experience designing
 * **English** — Proficient
 * **German** — Elementary
 * **Persian** — Native
-
----
